@@ -144,7 +144,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 75233,Dallas,Dallas County,Dallas–Fort Worth,14867,4728,4925,2634,55.7,49870,286500,31.5,31.4,5.8,54.0,97.2,81.3,36.9,,63.3,8.9,Extreme,,,0
 75234,Dallas,Dallas County,Dallas–Fort Worth,32961,12842,14068,6601,51.4,86733,351600,33.4,20.4,4.3,57.9,95.5,70.3,34.5,,46.2,8.9,High,,,1
 75235,Dallas,Dallas County,Dallas–Fort Worth,19637,9579,10611,2350,24.5,63393,294500,31.4,8.7,9.6,33.0,93.9,72.7,35.4,,26.6,8.9,High,,,0
-75236,Dallas,Dallas County,Dallas–Fort Worth,18963,7110,7551,2080,29.3,49715,255800,30.3,17.4,13.7,38.1,98.8,91.2,42.0,,56.4,8.9,Extreme,,,0
+75236,Dallas,Dallas County,Dallas–Fort Worth,18963,7110,7551,2080,29.3,49715,255800,30.3,17.4,13.7,38.1,98.8,91.2,42.0,,56.4,8.9,Extreme,,,1
 75237,Dallas,Dallas County,Dallas–Fort Worth,18260,7892,8899,895,11.3,44318,247500,32.1,12.5,19.3,26.9,96.5,81.0,37.5,,35.2,8.9,High,,,0
 75238,Dallas,Dallas County,Dallas–Fort Worth,33199,13171,14433,6632,50.4,82019,568700,35.5,19.7,5.0,52.1,95.6,70.3,34.5,,48.4,8.9,High,,,0
 75240,Dallas,Dallas County,Dallas–Fort Worth,25290,11316,12580,2387,21.1,58320,395100,31.2,16.2,13.4,37.4,96.1,75.1,35.8,,59.1,8.9,High,,,1
@@ -276,7 +276,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 75647,Gladewater,Gregg County,East Texas,13299,4824,5487,3642,75.5,65809,167700,36.7,27.6,1.9,65.3,86.4,91.0,57.2,,51.1,28.1,Moderate,,,0
 75650,Hallsville,Harrison County,East Texas,10703,3723,4021,2933,78.8,97596,197200,36.1,25.3,3.0,77.1,91.2,97.8,60.6,,58.8,26.9,Moderate,,Yes,0
 75651,Harleton,Harrison County,East Texas,1871,835,972,621,74.4,43514,162800,49.0,37.8,6.3,56.8,85.4,91.4,56.1,,40.6,26.5,Moderate,,,0
-75652,Henderson,Rusk County,East Texas,15290,4277,5197,3062,71.6,69250,182000,40.1,31.4,6.0,66.5,62.3,81.0,70.0,,34.0,14.9,Low,,,0
+75652,Henderson,Rusk County,East Texas,15290,4277,5197,3062,71.6,69250,182000,40.1,31.4,6.0,66.5,62.3,81.0,70.0,,34.0,14.9,Low,,,1
 75654,Henderson,Rusk County,East Texas,12164,4575,5216,3724,81.4,69848,173400,41.1,33.9,2.9,66.8,58.4,75.2,69.0,,30.9,14.9,Low,,,0
 75656,Hughes Springs,Cass County,Rest of Texas,4507,1921,2161,1407,73.2,41727,144500,37.5,27.3,2.0,69.3,98.7,96.4,64.5,,83.7,31.9,Extreme,,,1
 75657,Jefferson,Marion County,Rest of Texas,7503,3323,4291,2529,76.1,49466,113200,48.4,38.6,7.4,53.1,91.3,85.5,56.9,,52.9,20.5,Moderate,,,0
@@ -401,7 +401,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 75968,Pineland,Sabine County,Rest of Texas,1818,849,1015,698,82.2,53355,89100,41.7,28.3,9.4,63.0,59.4,80.7,84.0,,65.5,24.8,Low,,,0
 75969,Pollok,Angelina County,East Texas,4479,1489,1603,1202,80.7,84063,180800,40.9,22.7,1.9,67.8,44.6,53.5,74.6,,23.5,28.3,Low,,,0
 75972,San Augustine,San Augustine County,Rest of Texas,5708,2221,3179,1582,71.2,44196,96300,48.7,37.8,10.2,57.9,59.9,85.0,84.1,,49.8,8.7,Low,,,0
-75973,Shelbyville,Shelby County,Rest of Texas,2453,1125,1554,973,86.5,67023,130800,47.4,36.4,5.2,75.2,73.4,90.0,90.1,,75.9,3.9,Low,,,0
+75973,Shelbyville,Shelby County,Rest of Texas,2453,1125,1554,973,86.5,67023,130800,47.4,36.4,5.2,75.2,73.4,90.0,90.1,,75.9,3.9,Low,,,1
 75974,Tenaha,Shelby County,Rest of Texas,2592,928,1124,647,69.7,47292,91300,39.2,26.5,13.6,63.9,82.7,94.5,87.9,,65.1,10.4,Moderate,,,0
 75975,Timpson,Shelby County,Rest of Texas,3671,1315,1720,920,70.0,44297,96900,38.2,38.2,8.1,59.5,76.8,91.6,89.2,,68.7,6.0,Low,,,0
 75976,Wells,Cherokee County,East Texas,912,362,448,244,67.4,62857,66400,32.3,30.9,8.0,63.0,46.3,55.9,63.1,,21.0,22.3,Low,,,0
@@ -515,7 +515,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 76226,Argyle,Denton County,Dallas–Fort Worth,43587,14046,14341,13151,93.6,180982,606100,39.4,20.4,0.9,85.4,96.9,96.8,36.4,,65.3,29.1,High,,Yes,0
 76227,Aubrey,Denton County,Dallas–Fort Worth,62127,22426,23278,17354,77.4,111402,400800,34.7,14.7,2.5,68.7,95.7,97.4,35.9,,42.4,29.1,High,,Yes,0
 76228,Bellevue,Clay County,Rest of Texas,1263,497,594,409,82.3,69250,171200,40.3,32.8,0.6,76.1,89.4,92.8,46.9,,68.5,37.4,Moderate,,,0
-76230,Bowie,Montague County,Rest of Texas,10536,4302,5147,3389,78.8,66641,220600,42.7,30.7,7.2,66.6,84.4,94.3,43.7,,36.4,21.1,Moderate,,,0
+76230,Bowie,Montague County,Rest of Texas,10536,4302,5147,3389,78.8,66641,220600,42.7,30.7,7.2,66.6,84.4,94.3,43.7,,36.4,21.1,Moderate,,,1
 76233,Collinsville,Grayson County,Rest of Texas,3711,1443,1470,1078,74.7,67516,250000,40.6,32.9,0.9,71.0,93.6,93.8,50.2,,80.2,31.0,High,,,0
 76234,Decatur,Wise County,Dallas–Fort Worth,21418,7544,8306,5949,78.9,93727,344700,41.8,31.6,3.7,76.5,89.3,74.2,36.4,,36.7,15.2,Moderate,,Yes,1
 76238,Era,Cooke County,Rest of Texas,657,242,260,186,76.9,96667,271900,36.8,42.1,2.5,85.1,99.3,99.8,56.6,,94.8,22.6,Extreme,,,0
@@ -718,7 +718,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 76687,Thornton,Limestone County,Rest of Texas,1830,726,1213,606,83.5,73323,254500,51.9,42.6,2.2,77.3,87.3,76.9,81.3,,75.4,19.9,Moderate,,,0
 76689,Valley Mills,Bosque County,Central Texas,4564,1545,1789,1352,87.5,77863,217400,36.5,28.0,1.9,81.7,79.4,91.0,64.3,,61.4,45.9,Low,,,0
 76690,Walnut Springs,Bosque County,Central Texas,1214,475,652,356,74.9,42448,170200,35.6,29.7,0.4,68.4,90.0,95.8,57.4,,80.3,56.0,Moderate,,,0
-76691,West,McLennan County,Central Texas,6661,2440,2602,1944,79.7,85694,304500,42.0,30.8,2.5,77.2,76.6,93.7,68.4,,36.8,69.6,Low,,,0
+76691,West,McLennan County,Central Texas,6661,2440,2602,1944,79.7,85694,304500,42.0,30.8,2.5,77.2,76.6,93.7,68.4,,36.8,69.6,Low,,,1
 76692,Whitney,Hill County,Central Texas,9853,4170,5275,3414,81.9,55149,169100,50.9,44.9,5.1,62.1,83.8,93.0,58.9,,38.3,26.1,Moderate,,,2
 76693,Wortham,Freestone County,Rest of Texas,2153,798,1003,515,64.5,55645,176100,40.3,36.0,2.9,56.0,74.3,88.7,70.7,,55.0,23.1,Low,,,0
 76701,Waco,McLennan County,Central Texas,1871,954,1121,97,10.2,30313,,28.5,9.1,18.1,29.8,75.1,90.3,64.4,,43.4,70.4,Low,,,0
@@ -1629,7 +1629,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 79033,Farnsworth,Ochiltree County,Rest of Texas,20,12,12,12,100.0,,,78.6,100.0,0.0,100.0,94.2,90.3,53.6,,60.2,0.6,High,,,0
 79034,Follett,Lipscomb County,Rest of Texas,418,179,324,154,86.0,89250,123100,46.3,40.8,1.1,82.7,84.6,81.1,40.9,,24.9,0.7,Moderate,,,0
 79035,Friona,Parmer County,Rest of Texas,5391,1857,2069,1463,78.8,72202,158600,39.4,34.2,2.8,77.1,99.7,96.5,52.6,,33.7,5.8,Extreme,,,0
-79036,Fritch,Carson County,West Texas & Panhandle,5007,1694,2313,1563,92.3,90170,132300,39.3,38.5,2.1,79.2,95.9,90.0,0.0,,19.1,32.2,High,,,0
+79036,Fritch,Carson County,West Texas & Panhandle,5007,1694,2313,1563,92.3,90170,132300,39.3,38.5,2.1,79.2,95.9,90.0,0.0,,19.1,32.2,High,,,1
 79039,Groom,Carson County,West Texas & Panhandle,744,302,350,248,82.1,70357,105000,43.6,40.1,0.7,71.2,99.5,97.2,17.5,,37.2,46.2,Extreme,,,0
 79040,Gruver,Hansford County,Rest of Texas,1979,723,886,576,79.7,84583,156400,33.1,23.9,1.2,71.9,97.5,82.3,0.0,,17.7,0.6,Extreme,,,1
 79041,Hale Center,Hale County,West Texas & Panhandle,2861,1009,1255,822,81.5,61832,101000,47.2,29.2,8.0,72.2,99.9,92.0,47.7,,40.0,19.9,Extreme,,,0
@@ -1862,7 +1862,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 79758,Gardendale,Ector County,West Texas & Panhandle,2016,783,849,731,93.4,102560,390700,35.2,30.7,4.0,69.2,97.7,56.7,29.8,,28.8,13.1,Extreme,,,0
 79761,Odessa,Ector County,West Texas & Panhandle,30164,12755,13549,7431,58.3,68228,166000,30.2,20.9,9.4,50.1,98.8,66.2,32.2,,47.7,13.1,Extreme,,,1
 79762,Odessa,Ector County,West Texas & Panhandle,39927,16262,17522,9084,55.9,75272,232900,31.5,16.9,4.8,55.3,98.0,61.5,30.0,,41.1,13.1,Extreme,,,1
-79763,Odessa,Ector County,West Texas & Panhandle,35174,13679,14914,9636,70.4,56877,132500,33.2,22.5,5.5,61.2,98.8,67.6,31.9,,74.2,13.1,Extreme,,,0
+79763,Odessa,Ector County,West Texas & Panhandle,35174,13679,14914,9636,70.4,56877,132500,33.2,22.5,5.5,61.2,98.8,67.6,31.9,,74.2,13.1,Extreme,,,1
 79764,Odessa,Ector County,West Texas & Panhandle,27013,10037,10698,6764,67.4,65170,143500,32.7,17.3,4.9,63.8,99.1,70.7,33.5,,71.6,13.1,Extreme,,,0
 79765,Odessa,Midland County,West Texas & Panhandle,25904,10283,10668,6643,64.6,104965,302300,30.5,7.9,5.5,62.4,98.6,72.0,32.7,,48.2,16.3,Extreme,,Yes,0
 79766,Odessa,Ector County,West Texas & Panhandle,11041,3541,3682,2934,82.9,74407,140800,31.2,13.2,3.3,77.0,99.1,73.8,36.4,,50.2,14.7,Extreme,,,0
